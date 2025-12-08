@@ -71,3 +71,12 @@ body {
     border-radius: 80% 20% 20% 20%;
     z-index: -2;
 }
+.horn-left{
+    background-color: #000;
+    height: 100px;
+    width: 70px;
+    top: -5;
+    left: -3;
+    right: -6;
+    position: absolute;
+}
